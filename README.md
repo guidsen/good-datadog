@@ -11,6 +11,9 @@ server.register({
     reporters: {
       dogReporter: [{
         module: 'good-datadog',
+        args: [{
+          debug: true,
+        }],
       }],
     },
   },
