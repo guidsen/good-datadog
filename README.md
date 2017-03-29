@@ -1,4 +1,6 @@
-A HapiJS good reporter for sending request metrics to Datadog.
+![Datadog Logo](https://www.opsgenie.com/docs/images/integrations/datadog/datadog-logo.png)
+
+A HapiJS [good](https://github.com/hapijs/good) reporter for sending request metrics to [Datadog](https://datadoghq.com).
 
 Install the plugin with the `npm install good-datadog` command.  
 After installing the NPM package you should register the reporter via the good plugin.
