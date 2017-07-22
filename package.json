@@ -1,6 +1,6 @@
 {
   "name": "good-datadog",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A HapiJS good reporter for sending request metrics to Datadog",
   "main": "lib/index.js",
   "scripts": {
